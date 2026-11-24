@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Nakbul</string>
+    <string name="textview">TextView</string>
+    <string name="nakbul_a_ho_geldiniz">Nakbul\'a Hoşgeldiniz</string>
+    <string name="t_r_g_rseli">Tır görseli</string>
+    <string name="y_k_n_rahat_bul_nyoluna_bak">Yükünü Rahat Bul,\nYoluna Bak.</string>
+    <string name="t_rc_lar_nakliye_firma_lar_nfabrika_lar_tek_platformda">Tırcı\'lar, Nakliye Firma\'ları\nFabrika\'lar Tek Platformda.</string>
+    <string name="giri_yap">Giriş Yap</string>
+    <string name="kay_t_ol">Kayıt Ol</string>
+    <string name="y_k_bulmak_art_k_daha_kolay">Yük Bulmak Artık Daha Kolay</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
 </resources>
